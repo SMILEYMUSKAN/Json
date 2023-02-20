@@ -19,8 +19,8 @@ A value can be (below data types)
 Here is an example of simple JSON Object:
 ```json
 {
-    "name": "Shoyab",
-    "age": 25,
+    "name": "Momin",
+    "age": 14,
     "city": "Guntur",
     "isMarried": false
 }
@@ -30,14 +30,14 @@ JSON can also represents arrays (multiple) of Objects.
 ```json
 [
     {
-        "name": "Zahid",
-        "age": 28,
-        "city": "kerala",
-        "isMarried": true
+        "name": "Muskan",
+        "age": 16,
+        "city": "Ongole",
+        "isMarried": false
     },
     {
-        "name": "Chandu",
-        "age": 29,
+        "name": "Afifa",
+        "age": 17,
         "city": "Vijayawada",
         "isMarried": false
     }
