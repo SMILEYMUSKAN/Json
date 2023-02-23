@@ -1,4 +1,4 @@
-# Json
+# *Json*
 Introduction to JSON
 > JSON stands for Javascript Object Notation. It is a ligtweight data **interchange** format that is easy for humans to read and write and easy for machines to parse and generate.
 JSON is often used for transmitting data between a server and a web application
@@ -16,7 +16,7 @@ A value can be (below data types)
 1. array - `[]`
 1. object - `{}`
 
-Here is an example of simple JSON Object:
+**Here is an example of simple JSON Object:**
 ```json
 {
     "name": "Momin",
@@ -26,7 +26,7 @@ Here is an example of simple JSON Object:
 }
 ```
 
-JSON can also represents arrays (multiple) of Objects.
+**JSON can also represents arrays (multiple) of Objects**.
 ```json
 [
     {
@@ -43,7 +43,7 @@ JSON can also represents arrays (multiple) of Objects.
     }
 ]
 ```
-### Nested Object and Arrays
+### *Nested Object and Arrays*
 ```json
 {
  "name" "Sony",
